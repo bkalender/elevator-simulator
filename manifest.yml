@@ -9,8 +9,8 @@ applications:
 - services:
   - iotf-service
   - cloudantNoSQLDB
-  name: elevator-simulator-bksum17
-  host: elevator-simulator-bksum17
+  name: elevator-simulator-bksum17-1515
+  host: elevator-simulator-bksum17-1515
   memory: 528M
   instances: 1
   disk_quota: 1024M
